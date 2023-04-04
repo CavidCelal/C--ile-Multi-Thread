@@ -1,0 +1,9 @@
+C:\C# DERSLER\Scada.Component.Gauge\Scada.Data.DataList\bin\Debug\Scada.Data.DataList.dll
+C:\C# DERSLER\Scada.Component.Gauge\Scada.Data.DataList\bin\Debug\Scada.Data.DataList.pdb
+C:\C# DERSLER\Scada.Component.Gauge\Scada.Data.DataList\bin\Debug\Scada.Data.dll
+C:\C# DERSLER\Scada.Component.Gauge\Scada.Data.DataList\bin\Debug\Scada.Data.pdb
+C:\C# DERSLER\Scada.Component.Gauge\Scada.Data.DataList\obj\Debug\Scada.Data.DataList.csproj.AssemblyReference.cache
+C:\C# DERSLER\Scada.Component.Gauge\Scada.Data.DataList\obj\Debug\Scada.Data.DataList.csproj.CoreCompileInputs.cache
+C:\C# DERSLER\Scada.Component.Gauge\Scada.Data.DataList\obj\Debug\Scada.Data.DataList.csproj.CopyComplete
+C:\C# DERSLER\Scada.Component.Gauge\Scada.Data.DataList\obj\Debug\Scada.Data.DataList.dll
+C:\C# DERSLER\Scada.Component.Gauge\Scada.Data.DataList\obj\Debug\Scada.Data.DataList.pdb

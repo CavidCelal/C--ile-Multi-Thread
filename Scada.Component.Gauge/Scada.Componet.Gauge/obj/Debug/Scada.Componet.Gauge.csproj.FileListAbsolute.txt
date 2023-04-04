@@ -1,0 +1,11 @@
+C:\C# DERSLER\Scada.Component.Gauge\Scada.Componet.Gauge\bin\Debug\Scada.Componet.Gauge.dll
+C:\C# DERSLER\Scada.Component.Gauge\Scada.Componet.Gauge\bin\Debug\Scada.Componet.Gauge.pdb
+C:\C# DERSLER\Scada.Component.Gauge\Scada.Componet.Gauge\bin\Debug\Scada.Data.dll
+C:\C# DERSLER\Scada.Component.Gauge\Scada.Componet.Gauge\bin\Debug\Scada.Data.pdb
+C:\C# DERSLER\Scada.Component.Gauge\Scada.Componet.Gauge\obj\Debug\Scada.Componet.Gauge.csproj.AssemblyReference.cache
+C:\C# DERSLER\Scada.Component.Gauge\Scada.Componet.Gauge\obj\Debug\Scada.Componet.Gauge.UserControl1.resources
+C:\C# DERSLER\Scada.Component.Gauge\Scada.Componet.Gauge\obj\Debug\Scada.Componet.Gauge.csproj.GenerateResource.cache
+C:\C# DERSLER\Scada.Component.Gauge\Scada.Componet.Gauge\obj\Debug\Scada.Componet.Gauge.csproj.CoreCompileInputs.cache
+C:\C# DERSLER\Scada.Component.Gauge\Scada.Componet.Gauge\obj\Debug\Scada.Componet.Gauge.csproj.CopyComplete
+C:\C# DERSLER\Scada.Component.Gauge\Scada.Componet.Gauge\obj\Debug\Scada.Componet.Gauge.dll
+C:\C# DERSLER\Scada.Component.Gauge\Scada.Componet.Gauge\obj\Debug\Scada.Componet.Gauge.pdb
